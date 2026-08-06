@@ -180,13 +180,13 @@ Full-stack portfolio with a complete admin CMS — 8+ dynamic themes, 9 page-tra
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zaeem-Muhammad/Zaeem-Muhammad/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
-
-<sub>Generates automatically via a GitHub Action — see setup note below ⬇️</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MZAEEMALI/MZAEEMALI/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MZAEEMALI/MZAEEMALI/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/MZAEEMALI/MZAEEMALI/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
-
-> **Setup:** add [`Platane/snk`](https://github.com/Platane/snk) as a scheduled GitHub Action in this repo to auto-generate and commit the snake SVG above. Takes ~5 minutes and adds a nice animated contribution graph that most static badges can't replicate.
 
 <br/>
 
